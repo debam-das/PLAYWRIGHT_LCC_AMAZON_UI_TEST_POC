@@ -1,1 +1,7 @@
 /.DS_Store
+videos/
+suites/trace*
+report/
+reports/
+__pycache__/
+.DS_Store
