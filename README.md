@@ -45,7 +45,7 @@ $ PLAYWRIGHT_BROWSERS_PATH=$VIRTUAL_ENV/pw-browsers python -m playwright install
 * Set Python Path to the current directory:
 
 ```bash
-$ export PYTHONPATH = "<path to your current directory>"
+$ export PYTHONPATH="<path to your current directory>"
 ```
 
 * To Check if PYTHONPATH is set correctly to the current directory:

@@ -3,7 +3,6 @@ from lemoncheesecake.matching import *
 from playwright.sync_api import sync_playwright
 import helpers.base as base
 
-from pages import loginPage
 
 url = base.config_reader('AMAZON_URL', 'base_url')
 headless = base.config_reader('test_mode', 'headless')
